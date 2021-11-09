@@ -48,7 +48,7 @@ table {
 
 
 /* ===================
-Animation section 
+    Animation section 
 ======================*/
 
 @keyframes transformIcon {
@@ -70,7 +70,7 @@ Animation section
 }
 
 /* ==================================
-Custom Styles           
+            Custom Styles           
 ===================================== */
 
 body {
@@ -121,6 +121,7 @@ button {
 /* ========================
         Navigation styles
 =========================== */
+
 .header-container {
     background:#cbf7d6;
     border-bottom: #551480 2px solid;
@@ -216,6 +217,7 @@ nav a.current{
     padding-bottom: 50px;
 }
 
+/* **** Social Media Icon Styles **** */
 #socialicon {
     color:#551480;
     font-size: 1.5rem;
