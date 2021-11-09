@@ -181,10 +181,10 @@ nav a.current{
 
 
 .welcome-banner {
-    background: url("../images/adobestock-lady-mobile-2.jpg");
+    background: url("../images/adobestock-lady-mobile-2.jpg") no-repeat;
     background-size: cover;
     padding-top: 100px;
-    padding-bottom: 300px;
+    padding-bottom: 400px;
 }
 .welcome-text {
     background: rgba(255, 255, 255, 0.5);
