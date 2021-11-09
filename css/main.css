@@ -428,7 +428,7 @@ VVVVVVVVVVVVVVVVV Desktop styles VVVVVVVVVVVVVVVVVVVVVVV
     Desktop Home style
 ========================= */
 .welcome-banner {
-    background: url(../images/adobestock-lady.jpeg) no-repeat;
+    background: url(./images/adobestock-lady.jpeg) no-repeat;
     background-size: cover;
     padding-bottom: 630px;
     padding-top: 100px;
